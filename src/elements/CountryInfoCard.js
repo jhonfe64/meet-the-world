@@ -21,6 +21,18 @@ const CountryInfoCard = styled.div`
         text-decoration: none;
         color: #000000;
     }
+
+    @media only screen and (max-width: 1312px){
+        width: 30%;
+    }
+
+    @media only screen and (max-width: 996px){
+        width: 45%;
+    }
+
+    @media only screen and (max-width: 700px){
+        width: 100%;
+    }
 `
 
 export default CountryInfoCard;

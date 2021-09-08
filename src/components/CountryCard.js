@@ -18,8 +18,6 @@ function CountryCard({data}) {
                             <h5>Languages: {country.languages[0].iso639_1}</h5>
                             <h5>Continent: {country.region}</h5>
                             <h5>Currencies: {country.currencies[0].code}</h5>
-                            
-                            
                         </div>
                     </Link>
                 </CountryInfoCard>
