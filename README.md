@@ -7,14 +7,14 @@ This web application gets information from rest countries api, shows all countri
 
 ### Includes the following node packages
 
-styled components, bootstrap
+styled components
 
 
 ### To clone the repository
 
 on vsc console type: 
 
-- git clone https://github.com/jhonfe64/pokedex.git
+- git clone https://github.com/jhonfe64/meet-the-world.git
 - Use npm i to install all dependences 
 
 
@@ -22,12 +22,12 @@ on vsc console type:
 
 type on vsc console => npm start
 
-## check the app deployed in vercel https://pokedex-eight-rosy.vercel.app 
+## check the app deployed in vercel https://meet-the-world.vercel.app
 
 
 
-![](https://github.com/jhonfe64/pokedex/blob/master/poke1.png?raw=true)
+![](https://github.com/jhonfe64/meet-the-world/blob/master/meet1.png?raw=true)
 ###
-![](https://github.com/jhonfe64/pokedex/blob/master/poke2.png?raw=true)
+![](https://github.com/jhonfe64/meet-the-world/blob/master/meet2.png?raw=true)
 ###
-![](https://github.com/jhonfe64/pokedex/blob/master/poke3.png?raw=true)
+![](https://github.com/jhonfe64/meet-the-world/blob/master/meet3.png?raw=true)
