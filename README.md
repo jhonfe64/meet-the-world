@@ -7,7 +7,9 @@ This web application gets information from rest countries api, shows all countri
 
 ### Includes the following node packages
 
-styled components
+- styled components
+- React router dom
+- Bootstrap 5
 
 
 ### To clone the repository
